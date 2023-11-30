@@ -1,0 +1,67 @@
+[
+  {
+    "RP": "checkin-retour",
+    "SN": "retour",
+    "creation_date": "na",
+    "has_reference": false,
+    "image": "https://cdn-icons-png.flaticon.com/512/2279/2279638.png",
+    "isSO": false,
+    "item_brand": "na",
+    "item_code": "na",
+    "item_name": "na",
+    "klant": "Z:\\RepairData\\TO_SORT\\checkin-retour",
+    "location": "na"
+  },
+  {
+    "RP": "checkin-general",
+    "SN": "general",
+    "creation_date": "na",
+    "has_reference": false,
+    "image": "https://static.thenounproject.com/png/17840-200.png",
+    "isSO": false,
+    "item_brand": "na",
+    "item_code": "na",
+    "item_name": "na",
+    "klant": "Z:\\RepairData\\TO_SORT\\checkin-general",
+    "location": "na"
+  },
+  {
+    "RP": "checkin-damage",
+    "SN": "damage",
+    "creation_date": "na",
+    "has_reference": false,
+    "image": "http://www.clker.com/cliparts/9/0/f/8/1419873522619072294damaged-parcel.jpg",
+    "isSO": false,
+    "item_brand": "na",
+    "item_code": "na",
+    "item_name": "na",
+    "klant": "Z:\\RepairData\\TO_SORT\\checkin-damage",
+    "location": "na"
+  },
+  {
+    "RP": "RP095214",
+    "SN": "WE10008526",
+    "creation_date": "2023-10-19T00:00:00.000+02",
+    "has_reference": false,
+    "image": "https://esengo.abcparts.be/attachments/2023-10/att_772431_1697618304_m.jpg",
+    "isSO": false,
+    "item_brand": "MBB Gelma",
+    "item_code": "SGAH522-6942-04",
+    "item_name": "MBB Gelma - SGAH522-6942-04 - Touchpanel : W2000",
+    "klant": "J5 - JANSSEN PHARMACEUTICA BEERSE",
+    "location": "TNT"
+  },
+  {
+    "RP": "RP093586",
+    "SN": "C-L7GB62732019",
+    "creation_date": "2023-10-19T00:00:00.000+02",
+    "has_reference": false,
+    "image": "https://esengo.abcparts.be/attachments/2023-08/att_760725_1692774656_m.jpg",
+    "isSO": false,
+    "item_brand": "Siemens",
+    "item_code": "6ES7517-3FP00-0AB0",
+    "item_name": "Siemens - 6ES7517-3FP00-0AB0 - Simatic S7-1500F, CPU 1517F-3 PN/DP",
+    "klant": "R199 - REXEL BELGIUM NV GENT - OVR - REXEL GROUP",
+    "location": "OVR"
+  }
+]

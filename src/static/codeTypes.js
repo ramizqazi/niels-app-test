@@ -1,0 +1,15 @@
+export default [
+  'qr',
+  'ean-13',
+  'codabar',
+  'aztec',
+  'code-128',
+  'code-39',
+  'ean-13',
+  'upc-e',
+  'pdf-417',
+  'itf',
+  'ean-8',
+  'data-matrix',
+  'code-93',
+];

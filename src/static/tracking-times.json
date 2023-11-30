@@ -1,0 +1,70 @@
+[
+  {
+    "title": "0 min",
+    "value": "0"
+  },
+  {
+    "title": "15 min",
+    "value": "0.25"
+  },
+  {
+    "title": "30 min",
+    "value": "0.5"
+  },
+  {
+    "title": "45 min",
+    "value": "0.75"
+  },
+  {
+    "title": "1u00",
+    "value": "1"
+  },
+  {
+    "title": "1u15",
+    "value": "1.25"
+  },
+  {
+    "title": "1u30",
+    "value": "1.5"
+  },
+  {
+    "title": "1u45",
+    "value": "1.75"
+  },
+  {
+    "title": "2u00",
+    "value": "2"
+  },
+  {
+    "title": "2u15",
+    "value": "2.25"
+  },
+  {
+    "title": "2u30",
+    "value": "2.5"
+  },
+  {
+    "title": "2u45",
+    "value": "2.75"
+  },
+  {
+    "title": "3u00",
+    "value": "3"
+  },
+  {
+    "title": "3u15",
+    "value": "3.25"
+  },
+  {
+    "title": "3u30",
+    "value": "3.5"
+  },
+  {
+    "title": "3u45",
+    "value": "3.75"
+  },
+  {
+    "title": "4u00",
+    "value": "4"
+  }
+]
