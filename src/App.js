@@ -3,6 +3,7 @@ import React from 'react';
 import { decode } from 'base-64';
 import { Provider } from 'react-redux';
 import Toast from 'react-native-toast-message';
+import CodePush from 'react-native-code-push';
 
 import { PersistGate } from 'redux-persist/integration/react';
 
@@ -13,6 +14,10 @@ import configureStore from './redux/configureStore';
 const { persistor, store } = configureStore();
 
 global.atob = decode;
+
+const codePushOptions = {
+  checkFrequesncy: CodePush.CheckFrequency.ON_APP_RESUME,
+};
 
 /* =============================================================================
 <App />
@@ -32,4 +37,4 @@ const App = () => {
 
 /* Export
 ============================================================================= */
-export default App;
+export default CodePush(codePushOptions)(App);

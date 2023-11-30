@@ -5,6 +5,9 @@ import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
+
+import com.microsoft.codepush.react.CodePush;
+
 import org.wonday.orientation.OrientationActivityLifecycle;
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint;
@@ -19,6 +22,11 @@ public class MainApplication extends Application implements ReactApplication {
         @Override
         public boolean getUseDeveloperSupport() {
           return BuildConfig.DEBUG;
+        }
+
+        @Override
+        protected String getJSBundleFile() {
+            return CodePush.getJSBundleFile();
         }
 
         @Override

@@ -89,8 +89,7 @@ function SettingsProvider({ children }) {
     }
   };
 
-  const saveSettings = async (_user, _quality, _destination) => {
-    await storeUser(_user);
+  const saveSettings = async (_quality, _destination) => {
     await store_quality(_quality);
     await storeDestination(_destination);
 

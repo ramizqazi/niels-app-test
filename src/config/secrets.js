@@ -1,4 +1,4 @@
-export const AppVersion = '2.0.0';
+export const AppVersion = '3.0.0';
 
 export const main_url = 'https://abcindustrialparts.pythonanywhere.com';
 export const server_allsearch = 'http://192.168.2.120:3590';
